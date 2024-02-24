@@ -2,6 +2,6 @@
   on: push
   jobs:
     echo:
-      runs-on: ubuntu-latet
+      runs-on: ubuntu-latest
       stpes: 
         - run: echo "GitHub Action Test"
