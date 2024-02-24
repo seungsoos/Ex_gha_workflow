@@ -3,5 +3,5 @@
   jobs:
     echo:
       runs-on: ubuntu-latest
-      stpes: 
+      steps: 
         - run: echo "GitHub Action Test"
